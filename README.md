@@ -1,4 +1,4 @@
 # ECE4180_FinalProject
-Georgia Institute of Technology ECE 4180 Final Project
+Georgia Institute of Technology - ECE 4180 Final Project - Laser Lidar Turret
 
-Detail instuctions on wiki page
+Descriptions on the Wiki page

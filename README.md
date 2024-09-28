@@ -1,5 +1,5 @@
 # Georgia Institute of Technology
-ECE 4180 Final Project
+ECE 4180 Embedded Systems Final Project
 <br>Team Members : Hyeonjae Park, John Bowzard
 
 ## Description

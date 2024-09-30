@@ -1,6 +1,7 @@
 # Georgia Institute of Technology
 ECE 4180 Embedded Systems Final Project
 <br>Team Members : Hyeonjae Park, John Bowzard
+<br>(Version without camera operation)
 
 ## Description
 The Laser Lidar Turret is a bluetooth controllable laser detection system.
